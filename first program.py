@@ -33,4 +33,5 @@ def judge():
         print("opps something went wrong")
 
 judge()
+a  = input()
 
