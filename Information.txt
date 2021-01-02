@@ -1,0 +1,1 @@
+Its my first repository on git hub it contains a file named 'first program.py' it has some information about me and a simple rock paper scissor game go a head and run it on your system
